@@ -22,4 +22,4 @@ Iniciar revisando el archivo llamado "1.todoslosclientes.ipynb" de la carpeta: h
 ## Licencia
 
 El contenido de este proyecto esta licencia de Reconocimiento- No Comercial- Sin Obra Derivada 3.0 España de Creative Commons (https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
-El código fuente usado paar soportar el informe esta licenciado bajo la  [MIT license](http://opensource.org/licenses/mit-license.php).
+El código fuente usado que soporta el informe presentado esta licenciado bajo la [MIT license](http://opensource.org/licenses/mit-license.php).
